@@ -7,7 +7,7 @@
 
 <script>
 import Header from "./components/Header.vue";
-import Header from "./components/Calculator.vue";
+import Calculator from "./components/Calculator.vue";
 
 export default {
     name: "App",
